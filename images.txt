@@ -1,1 +1,1 @@
-https://registry.hub.docker.com/r/nyanmisaka/jellyfin/
+nyanmisaka/jellyfin
